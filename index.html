@@ -15,25 +15,31 @@ body {
 }
 
 p {
-   letter-spacing:5px;
    padding:0px;
    margin:0px;  
    font-size:18px;
    font-family: 'Arial';
+   letter-spacing:5px;
 }
 
 a {
-   text-decoration: none;
-   color:#bb7711;
+  text-decoration: none;
+  color:#bb7711;
 }
 
 a:hover {
    color:#bb5500;
 }
 
+.bills{
+  text-decoration:underline;
+  color:white;
+  letter-spacing:0px;
+}
+
 .act{
   font-family: 'Stint Ultra Condensed';
-  font-size:158px;
+  font-size:218px;
   padding:0px;
   margin:0px;"
 }
@@ -44,6 +50,12 @@ a:hover {
   margin:0px;
 }
 
+.link{
+  color: #FFC273;
+  letter-spacing:0px;
+  padding-right:40px;
+}
+
 .orange a:hover {
 }
 </style>
@@ -52,15 +64,18 @@ a:hover {
    <div>
      <hr>
      <p class="save">SAVE THE INTERNET.</p>
-      <p style="letter-spacing:5px;">This site has been taken down in protest of a bill</p>
-      <p>currently being considered in Congress called SOPA.<br/><br/></p>
+      <p>This site has been taken down in protest of two bills</p>
+      <p>currently being considered in Congress called <a class="bills" href="http://thomas.loc.gov/cgi-bin/bdquery/z?d112:h.r.3261:">SOPA</a> and <a  class="bills" href="http://en.wikipedia.org/wiki/PROTECT_IP_Act">PIPA</a>.<br/><br/></p>
       <p>This bill threatens to destroy the Internet as we know it.</p>
       <p>If it passes, your favorite sites could disappear forever.</p>
       <hr>
       <a href="http://www.tumblr.com/protect-the-net">
          <p class="act">ACT NOW.</p>
       </a>
-      <p><span><a href="http://engineadvocacy.com/voice/">CALL YOUR CONGRESSPERSON.</a></span><span> <a href="">DONATE TO THE EFF.</a></span><p>
+      <p><span><a class="link" href="http://engineadvocacy.com/voice/">CALL YOUR CONGRESSPERSON</a></span>
+        <span> <a class="link" href="https://supporters.eff.org/donate">DONATE TO THE EFF</a></span>
+        <span> <a class="link" href="https://github.com/SaraJo/SOPA-PIPA-Protest-Page">JOIN US</a></p>
    <div>
+
 </body>
 </html>
