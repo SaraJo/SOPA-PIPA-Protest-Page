@@ -17,3 +17,4 @@ If you are not a developer, or you don't know how to work the GitHubs, and you w
 	http://codeimpossible.com
 	http://happymonster.co
 	http://johnnycode.com
+	http://seriouspanda.org
