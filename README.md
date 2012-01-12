@@ -16,4 +16,4 @@ If you are not a developer, or you don't know how to work the GitHubs, and you w
 	http://michaellaplante.com
 	http://codeimpossible.com
 	http://happymonster.co
-        http://www.johnnycode.com
+	http://johnnycode.com
