@@ -3,7 +3,7 @@ Let's Save the Internet!
 
 This is a standardized page for the internet blackout planned for 1/18/2012. Feel free to contribute to the design, or fork to do something cool. This README will contain a list of sites planned to be taken down for the duration of the day of 1/18/2012. Please add yours, or ping me at sarajchipps@gmail.com and I will add it to the list.
 
-If you have access to the HTML in your homepage, between the two <HEAD></HEAD> tags, you can drop in this bit of code. This will send your visitors to a protest page here: http://protestsopa.com. I blogged about this here. 
+If you have access to the HTML in your homepage, between the two HEAD tags, you can drop in this bit of code. This will send your visitors to a protest page here: http://protestsopa.com. I blogged about this here. 
 
 <script>
 
