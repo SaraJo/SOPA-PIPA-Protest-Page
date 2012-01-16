@@ -1,0 +1,11 @@
+# PROTEST SOPA REDIRECT
+# 1. Change the example IP address to match your own
+# 2. If you have an .htaccess file add the following code to the top, or
+# 3. Place this file in your server's webroot and rename it to .htaccess
+
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{REMOTE_ADDR} !^123\.345\.567\.789
+ RewriteBase /
+ RewriteRule .* http://protestsopa.org/ [R=302]
+</IfModule>
