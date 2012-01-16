@@ -41,3 +41,5 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://thai-food-blog.com
  * http://jasondentler.com
  * http://pearescope.com
+ * http://minecraft.net
+ * http://Mojang.com
