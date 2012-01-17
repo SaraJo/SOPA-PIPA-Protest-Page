@@ -47,4 +47,5 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://saturn6.com
  * http://nicefishfilms.com
  * http://capsul8.com
- 
+ * http://minecraft.net
+ * http://Mojang.com
