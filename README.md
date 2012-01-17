@@ -41,3 +41,10 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://thai-food-blog.com
  * http://jasondentler.com
  * http://pearescope.com
+ * http://liveon.com 
+ * http://Weblogs.us
+ * http://avc.com
+ * http://saturn6.com
+ * http://nicefishfilms.com
+ * http://capsul8.com
+ 
