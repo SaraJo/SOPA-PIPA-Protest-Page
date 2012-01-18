@@ -52,3 +52,4 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://www.androirc.com
  * http://infli.kr
  * http://suenolff.com
+ * http://theopenphotoproject.org
