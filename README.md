@@ -66,4 +66,5 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://rnill.us
  * http://kobraphoto.ca/
  * http://wonkydonky.net
- 
+ * http://infli.kr
+ * http://theopenphotoproject.org
