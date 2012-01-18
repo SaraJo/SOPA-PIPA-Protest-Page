@@ -72,4 +72,10 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://blensor.org
  * http://camerataoflondon.org
  * http://crystalpalacequartet.co.uk
- * httP://dorkbotpdx.org
+ * http://dorkbotpdx.org
+ * http://tsugumitks.com
+ * http://CaseySoftware.com
+ * http://pandapick.com 
+ * http://web2project.net
+ * http://CodeSnipers.com
+ 
