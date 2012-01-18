@@ -78,4 +78,4 @@ If you are not a developer, or you don't know how to work the GitHubs, or have a
  * http://pandapick.com 
  * http://web2project.net
  * http://CodeSnipers.com
- 
+ * http://channinginthecity.com
