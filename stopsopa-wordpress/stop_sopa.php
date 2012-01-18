@@ -31,7 +31,6 @@ function stopSOPA_content() {
 		$page = '
 <html>
 <head>
-<link href="http://fonts.googleapis.com/css?family=Six+Caps" rel="stylesheet" type="text/css">
    <link href="http://fonts.googleapis.com/css?family=Stint+Ultra+Condensed" rel="stylesheet" type="text/css">
 <style>
 body {
