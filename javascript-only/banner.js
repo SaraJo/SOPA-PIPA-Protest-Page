@@ -14,12 +14,6 @@
     };
 
     function sopa() {
-        var sixCapsCSS = makeA("link",{
-            href: 'http://fonts.googleapis.com/css?family=Six+Caps',
-            rel: 'stylesheet',
-            type: 'text/css'
-        });
-
         var stintCondensedCSS = makeA("link",{
             href: 'http://fonts.googleapis.com/css?family=Stint+Ultra+Condensed',
             rel: 'stylesheet',
@@ -54,7 +48,6 @@
         inner.appendChild(saveInternet);
         banner.appendChild(inner);
 
-        document.head.appendChild(sixCapsCSS);
         document.head.appendChild(stintCondensedCSS);
         body.appendChild(banner);
     };
